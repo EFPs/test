@@ -1,0 +1,10 @@
+total 32
+drwxr-xr-x   9 Boat  staff   306 Sep 26 15:36 .
+drwxr-xr-x+ 41 Boat  staff  1394 Sep 24 22:42 ..
+-rw-r--r--@  1 Boat  staff  6148 Sep 26 14:50 .DS_Store
+-rw-r--r--   1 Boat  staff     0 Sep 26 14:53 a.txt
+-rw-r--r--   1 Boat  staff     0 Sep 26 14:53 ab.txt
+-rw-r--r--   1 Boat  staff     0 Sep 26 14:53 b.txt
+-rw-r--r--   1 Boat  staff     0 Sep 26 15:36 data
+-rwxr-xr-x@  1 Boat  staff   993 Sep 26 14:36 demo.sh
+-rwxr-xr-x   1 Boat  staff   274 Sep 26 15:01 demo2.sh
